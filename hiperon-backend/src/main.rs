@@ -15,7 +15,7 @@ async fn index(data: web::Data<AppState>) -> String {
 
 #[actix_web::main]
 async fn main() -> std::io::Result<()> {
-    println!("Hiperon API is now running!");
+    println!("Hiperon API is now running!!");
     HttpServer::new(|| {
         App::new()
             .app_data(web::Data::new(AppState {
