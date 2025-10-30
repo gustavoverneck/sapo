@@ -19,3 +19,9 @@ Notes
 
 - This project is a work in progress. Expect many small iterations and refactors.
 - Contributions or suggestions are welcome — open an issue with ideas or improvements.
+
+
+## To-do List
+- [ ] Estruturar um banco de dados de usuários
+- [ ] Estruturar um sistema de autenticação
+- [ ] Implementar um sistema de Login
